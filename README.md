@@ -29,3 +29,8 @@ Here are some ideas to get you started:
 -->
 - Computer Science Student
 - Apprentice at PWC
+
+---
+## :fire: My stats
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olywoolsey&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
