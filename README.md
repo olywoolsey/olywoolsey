@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 ---
 ## :fire: My stats
-https://github-readme-streak-stats.herokuapp.com/?user=olywoolsey
+[!GitHub STreak](https://github-readme-streak-stats.herokuapp.com/?user=olywoolsey)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olywoolsey&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
