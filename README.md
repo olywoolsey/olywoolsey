@@ -43,6 +43,7 @@ I currently study at Leeds University.
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/kubernetes.svg" alt="Kubernetes" style="vertical-align:top; margin:4px">
   </a>
 </p>
+
 ## :fire: My stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=olywoolsey&theme=dark&background=000000)](https://git.io/streak-stats)
 
