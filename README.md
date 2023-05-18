@@ -14,6 +14,7 @@
 I currently study at Leeds University.
 - 👨‍🎓 Computer Science Student.
 - 👨‍💼 Apprentice at PWC.
+- 📂 FOSS advocate
 - 🌱 I’m currently learning c and lua.
 
 ## 🚧 Languages I use:
