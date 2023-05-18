@@ -11,7 +11,7 @@
 ---
 
 ## 🐧 About Me:
-I currently study at Leeds University.
+Currently studying at Leeds University.
 - 👨‍🎓 Computer Science Student.
 - 👨‍💼 Apprentice at PWC.
 - 📂 FOSS advocate
